@@ -1,0 +1,30 @@
+_repo: The-Minds-and-Manners-of-Wild-Animals-A-Book-of-Personal-Observations_6052
+creator:
+  author:
+    agent_name: Hornaday, William T. (William Temple)
+    aliases:
+    - Hornaday, W. T. (William Temple)
+    - Hornaday, William Temple
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '1920'
+    url: http://www.gutenberg.org/2009/agents/1920
+    wikipedia: http://en.wikipedia.org/wiki/William_Temple_Hornaday
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild
+- Biology
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal behavior'
+- !lcc 'QL'
+title: 'The Minds and Manners of Wild Animals: A Book of Personal Observations'
+url: http://www.gutenberg.org/ebooks/6052
